@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World_Weather_Analysis ---
+## Descriptions:
+The purpose of the analysis is to help traveller using the data from csv to find the vacations based on the description of the data. In the data of of weather_vacation, it contains latitude, longitude, countries, cities, temperature and current description of the area. Thus, we use the google map API keys to use the platform of google map to show all the locations of the travelling cities on google map. Consequently, we will use the google map to navigate specific locations to go with 3 vacation stops then use marker to connect all the of the stops. 
